@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiovidiinas00joygoog_0347.png"; bbox 0 0 798 1290; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 538 1025 748 1249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 538 1025 748 1249">
+     <span class='ocr_line' id='line_1_1' title="bbox 638 1034 748 1221; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 638 1034 748 1183; x_wconf 60' lang='grc' dir='ltr'><strong>ὲὲἒξξέἒ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 650 1200 744 1221; x_wconf 68' lang='grc' dir='ltr'><em>Ξ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 538 1025 665 1249; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 538 1025 665 1204; x_wconf 58' lang='grc' dir='ltr'><em>’ἓῖἓξὲξὲἕὶἷζῖ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 629 1239 655 1249; x_wconf 73' lang='grc'><strong><em>”</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 63 33 766 850">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 63 33 766 850">
+     <span class='ocr_line' id='line_1_3' title="bbox 63 33 766 850; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 63 33 766 850; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
